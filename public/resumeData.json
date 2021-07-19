@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Lorena Ramirez",
+    "occupation": "Full-Stack React Developer",
+    "image": "profile.jpeg",
+    "bio": "Hey there, my name is Lorena Ramirez. I am a full-stack developer who love's exercising my creativity on front-end, and will always have a passion for tinkering and debugging in back-end. I enjoy challenging myself and creating responsive and performant web applications with an aesthetic twist! I'm continuously learning something new, sharing and developing new skills, and enjoy connecting with developers.",
+    "contactmessage": "Let's work together and create something lovely.",
+    "email": "ramirezlorenaa18@gmail.com",
+    "phone": "706-442-0034",
+    "address": {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28262"
+    },
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lorenaaramirez/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Lorena-Ramirez",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "techmessage": "I enjoy exploring and learning new technologies to help expand my abilities but here are a few that I am very comfortable with and just enjoy using.",
+    "skillmessage": "Along my journey I have developed skills that have not only boosted my confidence as a developer but have also allowed me to excel in a team driven work environment.",
+    "tech": [
+      {
+        "name": "React Js",
+        "description": "Once I grasped the concept of components and making code reusable and more efficient I grew to love React. It has helped me focus on spotting patterns in my code which has been a valuable skill for me.",
+        "image": "reactjs.png"
+      },
+      {
+        "name": "Javascript",
+        "description": "Javascript was the third programming language that I learned. After learning Java first I was able to pick up this language rather quickly. It is by far the language that I am most familiar with and enjoy using.",
+        "image": "javascript.png"
+      },
+      {
+        "name": "Node JS",
+        "description": "Node JS is my server-side scripting language of choice. I've used node to create a command-line application that can quickly and easily create a README file based on user input along with many other applications.",
+        "image": "nodejs.png"
+      },
+      {
+        "name": "MongoDB",
+        "description": "I have used different database systems and have learned the pros and cons of MongoDB. However, for many applications, this database system is my preferred choice due to the simplicity and dynamic schematics.",
+        "image": "mongodb.png"
+      },
+      {
+        "name": "Git",
+        "description": " Currently I have used Git for all of my projects. I have used Git for version control in small group projects as well as in my current intenrship with Quictivity.",
+        "image": "git.png"
+      },
+      {
+        "name": "Bootstrap 4",
+        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with after first being introduced to it in the bootcamp and can therefore design more quickly than with others.",
+        "image": "bootstrap.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Technical Skills",
+        "skill": ["React", "Javascript", "Node JS", "MySQL", "AGILE Methodology", "jQuery", "Java", "MongoDB", "AJAX", "REST API's"],
+        "image": "skills.jpg"
+      },
+      {
+        "name": "Soft Skills",
+        "skill": ["Self-motivated", "Tenacious Communication", "Creative Problem Solving", "Visual Thinking", "Leadership", "Adaptable", "Patience", "Time Management" ],
+        "image": "competence.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Facebook Clone",
+        "category": "A Facebook Clone created to practice developing responsive UX/UI using React.js allowing users to login in with their google account and create or view real time posts from other users on the site with the look and feel of facebook",
+        "image": "facebook-clone.png",
+        "giturl": "https://github.com/Lorena-Ramirez/Facebook-Clone",
+        "url": " https://facebook-clone-18d77.web.app"
+      },
+      {
+        "title": "Productivity Planner",
+        "category": "A productive space for users to plan, organize, and track their goals and schedule. Users are able to fill in a daily calendar with time slots, add a checklist of goals for each day, and jot down notes within the note section.",
+        "image": "productivity-planner.png",
+        "giturl": "https://github.com/Lorena-Ramirez/Productivity-Planner",
+        "url": "https://obscure-lake-47661.herokuapp.com/"
+      },
+      {
+        "title": "Dev-Connect",
+        "category": "An app intended to connect developers that share common skills and tech stacks. The app allows the user to identify self-assessed strengths and weaknesses while having access to chat rooms designated by tech stacks.",
+        "image": "dev-connect.png",
+        "giturl": "https://github.com/Lorena-Ramirez/dev-connect",
+        "url": "https://secret-refuge-67245.herokuapp.com/"
+      },
+      {
+        "title": "Ulitmutt Finder",
+        "category": "An application for users in search of a an adoptable dog near them. After taking a short preference quiz the user is prompted with adoptable dogs near them that meet their criteria. Users can save favorite dogs and learn more about their dog breed on the breeds page.",
+        "image": "ultimutt-finder.png",
+        "giturl": "https://github.com/Lorena-Ramirez/UltiMutt_dog_finder",
+        "url": "https://lorena-ramirez.github.io/UltiMutt_dog_finder/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Lorena is an asset to any team. She constantly learned and implemented new methods and technologies into our project. Where others would throw their hands up in frustration she showed up the next day surprising us with a new achievement. Lorena lead our project to success and I was extremely grateful to work with her.",
+        "user": "Dimitri Nakos"
+      }
+    ]
+  }
+}
