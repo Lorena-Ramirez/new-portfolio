@@ -65,9 +65,6 @@ class Contact extends Component {
                         <div>
                            {/* <button className="submit">Submit </button> */}
                            <input className="submit" type="submit" value="Submit"></input>
-                           <span id="image-loader">
-                              <img alt="loading symbol" src="images/loader.gif" />
-                           </span>
                         </div>
                      </fieldset>
                   </form>
