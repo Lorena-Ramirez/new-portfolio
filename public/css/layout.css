@@ -605,6 +605,11 @@ ul#nav li.current a { color: grey; font-weight: bold; }
    border: 15px solid #fff;
 }
 
+.projectImages{
+   height: 350px;
+   object-fit: fill;
+}
+
 /* overlay */
 .portfolio-item .item-wrap .overlay {
    position: absolute;
