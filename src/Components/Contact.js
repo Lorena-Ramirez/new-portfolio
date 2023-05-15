@@ -15,7 +15,7 @@ class Contact extends Component {
       const sendEmail = (e) => {
          e.preventDefault();
 
-         emailjs.sendForm('service_84wuela', 'template_40zbw5a', e.target, 'user_JRjA8nHUkGQzgslVtGHas')
+         emailjs.sendForm('service_g3e9k49', 'template_40zbw5a', e.target, 'user_JRjA8nHUkGQzgslVtGHas')
             .then((result) => {
                console.log(result.text);
             }, (error) => {
