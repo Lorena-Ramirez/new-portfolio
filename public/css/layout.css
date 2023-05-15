@@ -30,7 +30,7 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 800px;
+   height: 100vh;
    min-height: 500px;
    width: 100%;
    background: #161415 url(../images/header-background.jpg) no-repeat top center;
@@ -277,6 +277,7 @@ ul#nav li.current a { color: grey; font-weight: bold; }
 }
 #about p {
    font-family: 'Nunito Sans', sans-serif;
+   font-weight: bold;
    font-size: 17px;
     line-height: 30px;
     color: #fff;
@@ -365,6 +366,7 @@ ul#nav li.current a { color: grey; font-weight: bold; }
     text-transform: uppercase;
     font-weight: bold;
     font-size: 12px;
+    padding-top: 5px;
 }
 
 /* #resume h5 span {
@@ -562,7 +564,6 @@ ul#nav li.current a { color: grey; font-weight: bold; }
 }
 #portfolio h1 span {
    border-bottom: 2px solid #73977d;
-   padding-bottom: 6px;
 }
 .code-links {
    text-decoration: none;
@@ -660,7 +661,8 @@ ul#nav li.current a { color: grey; font-weight: bold; }
    color: #fff;
 }
 .portfolio-item .portfolio-item-meta p {
-   font: 14px/18px 'opensans-light', sans-serif;
+   font: 16px/25px 'opensans-light', sans-serif;
+   font-weight: bold;
    color: white;
    margin-bottom: 0;
    align-content: center;

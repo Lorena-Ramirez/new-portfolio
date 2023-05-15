@@ -42,7 +42,7 @@ class Resume extends Component {
           </div>
 
           <div>
-           <p className="lead center">{techmessage}</p>
+            <p className="lead">{techmessage}</p>
             <ul className="col-container ">
               {tech}
             </ul>
@@ -55,7 +55,7 @@ class Resume extends Component {
           </div>
 
           <div>
-           <p className="lead center">{skillmessage}</p>
+            <p className="lead">{skillmessage}</p>
             <ul className="col-container ">
               {skills}
             </ul>
