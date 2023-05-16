@@ -608,6 +608,7 @@ ul#nav li.current a { color: grey; font-weight: bold; }
 
 .projectImages{
    height: 350px;
+   width: -webkit-fill-available;
    object-fit: fill;
 }
 
